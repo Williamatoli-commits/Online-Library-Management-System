@@ -96,7 +96,7 @@ All tests were successful and the program handled mistakes gracefully.
 
 
 ## How to Run
-1. Open library.cpp in a C++ compiler  
+1. Open the Code prompt then library.cpp in a C++ compiler  
 2. Compile the code  
 3. Run the program  
 4. Use the menu to add, view, search, borrow, return, or delete books  
