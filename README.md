@@ -6,19 +6,37 @@ Course Code: BSD 122
 Unit: Object-Oriented Programming 1  
 Language: C++
 
----
+
 
 ## Introduction
 This project is a simple Online Library Management System built using C++.  
-It allows a user to manage books in a library by adding new books, viewing all books, searching, borrowing, returning, and removing books.  
+It allows a user to :
+
+manage books in a library by adding new books
+
+ - viewing all books
+
+  - searching books
+
+  -borrowing books 
+
+  -returning books 
+
+ - removing books
+ 
+ - adding books 
+
 The program runs in the console, and the main goal was to practice object-oriented programming concepts like classes, objects, and keeping code organized.
 
 
 
 ## Objectives
-- Practice object-oriented programming in C++  
+- Put into Practice object-oriented programming in C++  
+
 - Build a simple menu-based system for managing books  
+
 - Learn how to store and manipulate data with classes  
+
 - Make a program that is easy to understand and use  
 
 
@@ -27,7 +45,9 @@ The program runs in the console, and the main goal was to practice object-orient
 The system has three main classes:
 
 1. Book – holds book details such as ID, title, author, and availability  
+
 2. User – holds user information including ID and name  
+
 3. Library – handles all operations such as adding, removing, searching, borrowing, and returning books  
 
 Each class has its own responsibilities, and the library class brings everything together. The menu system lets the user choose the operation they want to perform.
