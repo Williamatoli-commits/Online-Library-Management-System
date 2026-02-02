@@ -1,0 +1,11 @@
+Test Case 1: Borrow available book
+Expected result: Book borrowed successfully
+
+Test Case 2: Borrow already borrowed book
+Expected result: System displays an error message
+
+Test Case 3: Search existing book
+Expected result: Book details displayed
+
+Test Case 4: Search non-existing book
+Expected result: System displays not found message
