@@ -1,9 +1,14 @@
 # Online Library Management System – BSD 122 Assignment 1
 
-Student Name: William Atoli  
+Student Name: William Atoli 
+ 
 Reg No:BSE-01-0252/2025
-Course Code: BSD 122  
+
+
+Course Code: BSD 122
+  
 Unit: Object-Oriented Programming 1  
+
 Language: C++
 
 
